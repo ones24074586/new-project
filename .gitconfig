@@ -1,0 +1,7 @@
+[gui]
+	recentrepo = C:/Users/ADMIN/ones
+[user]
+	name = onesmus kimaru
+	email = kimaruonesmus5@gmail.com
+[core]
+	editor = code --wait --new-window
